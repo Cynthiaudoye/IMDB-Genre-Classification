@@ -30,8 +30,8 @@ This project was completed as part of my **MSc Data Science coursework** at the 
 
 | Poster | Overview | Ground Truth | CNN Predictions | LSTM Predictions |
 |--------|-----------|-----------------|----------------|----------------|
-| ![Movie 1](images/movie1.jpg) | A woman moves into an exclusive NYC apartment... | Comedy, Romance | Drama, Thriller, Crime | Drama, Comedy, Romance |
-| ![Movie 2](images/movie2.jpg) | A Jewish girl falls in love with a WWII pilot... | Comedy, Crime, Drama | Drama, Romance, Thriller | Drama, Comedy, Romance |
+| ![Movie 1](images/IMDB.jpg) | A woman moves into an exclusive NYC apartment... | Comedy, Romance | Drama, Thriller, Crime | Drama, Comedy, Romance |
+| ![Movie 2](images/IMDB.jpg) | A Jewish girl falls in love with a WWII pilot... | Comedy, Crime, Drama | Drama, Romance, Thriller | Drama, Comedy, Romance |
 
 *(Full results available in the [analysis report](Multimodal_IMDB_Analysis_Report.pdf)).*
 
